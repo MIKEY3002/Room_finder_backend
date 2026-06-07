@@ -25,6 +25,7 @@ from app.models.user import User
 from app.models.review import Review
 from app.models.inquiry import Inquiry
 from app.models.report import Report
+from app.models.favorite import Favorite
 
 target_metadata = Base.metadata
 
